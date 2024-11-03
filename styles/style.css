@@ -26,6 +26,10 @@
     list-style: none;
 }
 
+.header__menu-link-active{
+    text-decoration: none;
+}
+
 .header__logo{
     margin-right: 184px;
 }
